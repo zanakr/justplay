@@ -63,7 +63,8 @@ def installs_data_exploration():
 # Function for the second page (Revenue Data Exploration)
 def revenue_data_exploration():
     # Load data
-    data = pd.read_csv('../data/processed/revenue.csv')
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    data = pd.read_csv(os.path.join(current_dir, '../data/processed/revenue.csv'))
 
     # Rename columns
     data = data.rename(columns={
@@ -111,8 +112,9 @@ def revenue_data_exploration():
 # Function for the third page (Ad Spend Installs Data Exploration)
 def ad_spend_installs_exploration():
     # Load the datasets
-    ad_spend_df = pd.read_csv('../data/processed/ad_spend_installs.csv')
-    ad_spend_df_without_outliers = pd.read_csv('../data/processed/ad_spend_installs_without_outliers.csv')
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    ad_spend_df = pd.read_csv(os.path.join(current_dir, '../data/processed/ad_spend_installs.csv'))
+    ad_spend_df_without_outliers = pd.read_csv(os.path.join(current_dir, '../data/processed/ad_spend_installs_without_outliers.csv'))
 
     # Calculate additional metrics for both datasets
     for df in [ad_spend_df, ad_spend_df_without_outliers]:
@@ -164,7 +166,8 @@ def ad_spend_installs_exploration():
 # Function for the main page (JustPlay Ad Performance Metrics Dashboard)
 def ad_performance_metrics_dashboard():
     # Load the dataset
-    ad_performance_metrics_per_channel = pd.read_csv('../data/processed/ad_performance_metrics_per_channel.csv')
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    ad_performance_metrics_per_channel = pd.read_csv(os.path.join(current_dir, '../data/processed/ad_performance_metrics_per_channel.csv'))
 
     # Fill NaN and infinity values with zero
     ad_performance_metrics_per_channel = ad_performance_metrics_per_channel.fillna(0)
