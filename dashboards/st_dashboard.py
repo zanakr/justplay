@@ -13,7 +13,7 @@ def installs_data_exploration():
     # Load the dataset
     # Get the current directory of the script
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    df = pd.read_csv(os.path.join(current_dir, '../data/processed/installs.csv')
+    df = pd.read_csv(os.path.join(current_dir, '../data/processed/installs.csv'))
 
     # Create combined column for channel, campaign, and creative
     df['channel_campaign_creative'] = df['channel'] + ' | ' + df['campaign'] + ' | ' + df['creative']
