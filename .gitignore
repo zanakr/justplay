@@ -1,5 +1,6 @@
 # ignore the following files and directories
 .ipynb_checkpoints
 .cache
-__pycache__
 .DS_Store
+__pycache__
+
