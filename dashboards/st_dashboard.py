@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -10,7 +11,9 @@ def capitalize_first_letter(s):
 # Function for the first page (Installs Data Exploration)
 def installs_data_exploration():
     # Load the dataset
-    df = pd.read_csv('../data/processed/installs.csv')
+    # Get the current directory of the script
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    df = pd.read_csv(os.path.join(current_dir, '../data/processed/installs.csv')
 
     # Create combined column for channel, campaign, and creative
     df['channel_campaign_creative'] = df['channel'] + ' | ' + df['campaign'] + ' | ' + df['creative']
