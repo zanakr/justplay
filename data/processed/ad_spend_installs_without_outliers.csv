@@ -1,0 +1,103 @@
+report_day,country_code,country_name,os_name,channel,campaign,creative,network_clicks,network_impressions,network_installs,installs,network_installs_diff,cost
+2024-01-01,be,Belgium,android,channel 1,campaign 5,creative 3,0,0,0,1,1,0.0
+2024-01-01,ca,Canada,android,channel 1,campaign 6,creative 2,0,0,0,15,15,0.0
+2024-01-01,ca,Canada,android,channel 3,campaign 18,creative 16,52,1323,1,0,1,2.7033
+2024-01-01,ca,Canada,android,channel 6,campaign 28,creative 43,47,571,1,1,0,1.8545
+2024-01-01,ch,Switzerland,android,channel 1,campaign 7,creative 2,0,0,0,1,1,0.0
+2024-01-01,de,Germany,android,channel 1,campaign 43,creative 1,1252,81611,2032,0,2032,1709.1097
+2024-01-01,de,Germany,android,channel 8,campaign 35,creative 65,1,31,1,1,0,4.1071
+2024-01-01,de,Germany,android,channel 9,campaign 37,creative 1,0,82,0,0,0,0.0
+2024-01-01,de,Germany,android,channel 9,campaign 38,creative 1,0,5,0,0,0,0.0
+2024-01-01,de,Germany,android,channel 9,campaign 39,creative 1,0,88,0,0,0,10.845
+2024-01-01,es,Spain,android,channel 1,campaign 44,creative 1,2902,226980,2366,0,2366,1392.9466
+2024-01-01,es,Spain,android,channel 8,campaign 31,creative 62,201,406,1,1,0,0.8771
+2024-01-01,es,Spain,android,channel 8,campaign 34,creative 55,10642,22524,161,159,2,165.7301
+2024-01-01,es,Spain,android,channel 8,campaign 34,creative 56,663,1741,11,11,0,11.4894
+2024-01-01,gb,United Kingdom,android,channel 1,campaign 1,creative 1,68,5406,239,0,239,151.3229
+2024-01-01,gb,United Kingdom,android,channel 3,campaign 16,creative 14,91,160529,11,0,11,17.0072
+2024-01-01,gb,United Kingdom,android,channel 8,campaign 35,creative 57,791,2964,19,19,0,114.6272
+2024-01-01,ir,"Iran, Islamic Republic of",android,channel 1,campaign 2,creative 2,0,0,0,1,1,0.0
+2024-01-01,it,Italy,android,channel 1,campaign 7,creative 4,0,0,0,13,13,0.0
+2024-01-01,it,Italy,android,channel 8,campaign 35,creative 60,2336,5883,63,61,2,111.0801
+2024-01-01,it,Italy,android,channel 8,campaign 35,creative 61,791,2408,21,20,1,40.3976
+2024-01-01,it,Italy,android,channel 8,campaign 35,creative 66,19,42,1,1,0,1.6461
+2024-01-01,ng,Nigeria,ios,channel 10,campaign 40,creative 74,0,0,0,1,1,0.0
+2024-01-01,nl,Netherlands,android,channel 1,campaign 42,creative 1,281,16164,290,0,290,259.8395
+2024-01-01,no,Norway,android,channel 1,campaign 3,creative 1,52,2961,143,0,143,58.557
+2024-01-01,pl,Poland,android,channel 1,campaign 4,creative 1,2817,209635,3871,0,3871,1387.1348
+2024-01-01,pl,Poland,android,channel 1,campaign 4,creative 2,0,0,0,357,357,0.0
+2024-01-01,pl,Poland,android,channel 10,campaign 41,creative 74,0,0,0,1,1,0.0
+2024-01-01,pl,Poland,android,channel 8,campaign 34,creative 64,400,215914,1,1,0,0.7338
+2024-01-01,pt,Portugal,android,channel 8,campaign 31,creative 52,520,1663,17,17,0,17.3873
+2024-01-01,sg,Singapore,android,channel 1,campaign 7,creative 3,0,0,0,4,4,0.0
+2024-01-01,us,United States,android,channel 1,campaign 8,creative 3,0,0,0,87,87,0.0
+2024-01-01,us,United States,android,channel 1,campaign 8,creative 4,0,0,0,1,1,0.0
+2024-01-01,us,United States,android,channel 1,campaign 9,creative 2,0,0,0,8,8,0.0
+2024-01-01,us,United States,android,channel 10,campaign 41,creative 73,0,0,0,79,79,0.0
+2024-01-01,us,United States,android,channel 10,campaign 41,creative 74,0,0,0,75,75,0.0
+2024-01-01,us,United States,android,channel 2,campaign 10,creative 5,388,2265,8,0,8,79.4467
+2024-01-01,us,United States,android,channel 2,campaign 10,creative 7,52,387,0,0,0,9.9013
+2024-01-01,us,United States,android,channel 2,campaign 11,creative 10,228,1410,2,0,2,29.1164
+2024-01-01,us,United States,android,channel 2,campaign 11,creative 11,316,1396,3,0,3,30.8138
+2024-01-01,us,United States,android,channel 2,campaign 11,creative 6,83,494,0,0,0,9.882
+2024-01-01,us,United States,android,channel 2,campaign 14,creative 5,150,833,2,0,2,16.7029
+2024-01-01,us,United States,android,channel 3,campaign 17,creative 15,49,345,1,1,0,1.0
+2024-01-01,us,United States,android,channel 3,campaign 18,creative 19,95,363,7,0,7,43.7209
+2024-01-01,us,United States,android,channel 4,campaign 21,creative 20,143,54551,16,39,23,330.39
+2024-01-01,us,United States,android,channel 5,campaign 23,creative 30,2000,9398,113,112,1,225.0394
+2024-01-01,us,United States,android,channel 5,campaign 23,creative 31,986,6010,30,30,0,54.3971
+2024-01-01,us,United States,android,channel 5,campaign 23,creative 32,364,1146,8,8,0,18.0195
+2024-01-01,us,United States,android,channel 5,campaign 23,creative 36,29,171,1,1,0,1.1885
+2024-01-01,us,United States,android,channel 6,campaign 26,creative 39,358,3331,11,10,1,74.4777
+2024-01-01,us,United States,android,channel 6,campaign 26,creative 40,2892,22354,124,124,0,646.8727
+2024-01-01,us,United States,android,channel 6,campaign 26,creative 44,58,1028,2,2,0,8.8618
+2024-01-01,us,United States,android,channel 6,campaign 26,creative 45,23,1890,3,3,0,21.0167
+2024-01-01,us,United States,android,channel 6,campaign 27,creative 42,3,24,1,1,0,4.6412
+2024-01-01,us,United States,android,channel 8,campaign 32,creative 53,649,2129,17,17,0,125.2244
+2024-01-01,us,United States,android,channel 8,campaign 32,creative 63,73,198,1,1,0,10.1643
+2024-01-01,us,United States,android,channel 8,campaign 33,creative 54,613,2621,17,17,0,110.7751
+2024-01-01,us,United States,android,channel 8,campaign 35,creative 58,122,415,11,12,1,32.5751
+2024-01-01,us,United States,android,channel 8,campaign 35,creative 59,71,292,13,14,1,29.6779
+2024-01-01,us,United States,ios,channel 10,campaign 40,creative 73,0,0,0,71,71,0.0
+2024-01-01,us,United States,ios,channel 10,campaign 40,creative 74,0,0,0,16,16,0.0
+2024-01-01,us,United States,ios,channel 2,campaign 12,creative 12,515,1689,3,0,3,42.1846
+2024-01-01,us,United States,ios,channel 2,campaign 12,creative 75,412,262248,25,0,25,101.7505
+2024-01-01,us,United States,ios,channel 2,campaign 12,creative 76,95,17787,4,0,4,8.4192
+2024-01-01,us,United States,ios,channel 2,campaign 12,creative 77,265,173740,16,0,16,67.4632
+2024-01-01,us,United States,ios,channel 2,campaign 12,creative 8,4,1618,0,0,0,1.1932
+2024-01-01,us,United States,ios,channel 2,campaign 12,creative 9,6,48,0,0,0,0.333
+2024-01-01,us,United States,ios,channel 2,campaign 13,creative 75,279,187850,18,0,18,72.6292
+2024-01-01,us,United States,ios,channel 2,campaign 13,creative 76,146,28002,3,0,3,12.8195
+2024-01-01,us,United States,ios,channel 2,campaign 13,creative 8,8,1978,1,0,1,1.6005
+2024-01-01,us,United States,ios,channel 3,campaign 15,creative 13,4426,5260,22,0,22,71.4
+2024-01-01,us,United States,ios,channel 3,campaign 19,creative 17,340,473,2,1,1,23.9661
+2024-01-01,us,United States,ios,channel 3,campaign 20,creative 18,1327,1956,5,0,5,40.4404
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 21,336,82931,0,55,55,590.34
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 22,41,6834,0,12,12,71.15
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 23,1,171,0,0,0,2.38
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 24,1,287,0,0,0,0.97
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 25,21,5722,0,5,5,43.14
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 26,7,1953,0,2,2,17.57
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 27,2,339,0,0,0,2.35
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 28,0,235,0,0,0,0.66
+2024-01-01,us,United States,ios,channel 4,campaign 22,creative 29,47,8149,0,5,5,112.29
+2024-01-01,us,United States,ios,channel 5,campaign 24,creative 33,523,1172,8,8,0,42.4403
+2024-01-01,us,United States,ios,channel 5,campaign 24,creative 34,1785,5323,14,14,0,70.8688
+2024-01-01,us,United States,ios,channel 5,campaign 24,creative 35,1778,6776,25,25,0,117.9043
+2024-01-01,us,United States,ios,channel 5,campaign 24,creative 37,1391,2429,3,3,0,14.6545
+2024-01-01,us,United States,ios,channel 6,campaign 25,creative 38,615,6166,33,33,0,294.8705
+2024-01-01,us,United States,ios,channel 6,campaign 25,creative 41,69,692,1,1,0,6.2267
+2024-01-01,us,United States,ios,channel 6,campaign 25,creative 46,144,1566,4,4,0,27.8228
+2024-01-01,us,United States,ios,channel 6,campaign 29,creative 38,329,2292,7,8,1,33.8249
+2024-01-01,us,United States,ios,channel 7,campaign 30,creative 47,64,4845,9,1,8,151.38
+2024-01-01,us,United States,ios,channel 7,campaign 30,creative 48,91,11632,14,4,10,185.09
+2024-01-01,us,United States,ios,channel 7,campaign 30,creative 49,0,40,0,0,0,1.67
+2024-01-01,us,United States,ios,channel 7,campaign 30,creative 50,42,1969,3,0,3,70.36
+2024-01-01,us,United States,ios,channel 7,campaign 30,creative 51,31,3920,5,1,4,103.89
+2024-01-01,us,United States,ios,channel 8,campaign 36,creative 54,3566,3676,15,16,1,69.534
+2024-01-01,us,United States,ios,channel 8,campaign 36,creative 67,3949,4107,21,23,2,105.8981
+2024-01-01,us,United States,ios,channel 8,campaign 36,creative 68,4452,4547,17,20,3,98.87
+2024-01-01,us,United States,ios,channel 8,campaign 36,creative 69,66127,67097,403,407,4,2211.1505
+2024-01-01,us,United States,ios,channel 8,campaign 36,creative 70,2439,2509,18,18,0,89.6869
+2024-01-01,us,United States,ios,channel 8,campaign 36,creative 71,2533,2677,10,10,0,55.5461
+2024-01-01,us,United States,ios,channel 8,campaign 36,creative 72,3371,3457,16,16,0,67.8716

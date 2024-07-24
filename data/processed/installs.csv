@@ -1,0 +1,96 @@
+userId,countryCode,installedAt,osVersion,device,limitAdTracking,adjustId,adGroupName,trackerName,channel,campaign,creative,os_name,installedDate,countryName
+47123348Ld7f16c70403f8e1affdb1332931e,ca,2024-01-01 17:23:46+00:00,9,galaxya50,False,EJRY87002175420325,adGroupName 1,trackerName 1,channel 1,campaign 1,creative 1,android,2024-01-01,Canada
+98223348Lfc56424f4ecc8a6a51df078d3b50,ca,2024-01-01 03:08:35+00:00,9,galaxys22ultra5g,False,OQJA99166154683474,adGroupName 55,trackerName 58,channel 9,campaign 22,creative 37,android,2024-01-01,Canada
+50653348Le377569f4c0b97c211d3c6a185cc,gb,2024-01-01 10:51:47+00:00,9,galaxya8(2018),False,XXOH42898890122016,adGroupName 54,trackerName 57,channel 9,campaign 21,creative 27,android,2024-01-01,United Kingdom
+2e803348Lb3e5dfad4133943aa10b8349a704,de,2024-01-01 12:56:25+00:00,9,galaxys8,False,KLAB91443783264247,adGroupName 54,trackerName 56,channel 9,campaign 20,creative 36,android,2024-01-01,Germany
+57893348L8954cfdf4b389d80a5d804b00fe0,de,2024-01-01 17:34:59+00:00,9,galaxynote8,False,YDZY92754243116752,adGroupName 53,trackerName 55,channel 9,campaign 20,creative 35,android,2024-01-01,Germany
+a37b3348L6a843f7d4c53a21f7893610f1c41,pt,2024-01-01 08:58:26+00:00,9,galaxys8plus,False,WLIY00808272610892,adGroupName 48,trackerName 50,channel 9,campaign 19,creative 30,android,2024-01-01,Portugal
+1ea03348Lee1e4f064da28825ad6390b72725,gb,2024-01-01 13:48:57+00:00,9,galaxya20e,True,QSET61422121345190,adGroupName 52,trackerName 54,channel 9,campaign 21,creative 34,android,2024-01-01,United Kingdom
+818f3348L91abbdaf4e9b8c4a2b36491ff360,gb,2024-01-01 04:20:31+00:00,9,8,False,CUPG96622933841895,adGroupName 51,trackerName 53,channel 9,campaign 20,creative 33,android,2024-01-01,United Kingdom
+cc0e3348L3ccb0c2e41318791d09edf5b59b2,es,2024-01-01 10:15:50+00:00,9,k41s,False,PXHP18193167788918,adGroupName 50,trackerName 52,channel 9,campaign 20,creative 32,android,2024-01-01,Spain
+593b3348L430b5a0f45249cd316c0b59d5a32,be,2024-01-01 18:58:32+00:00,9,p30lite,False,LFWA93602655720534,adGroupName 49,trackerName 51,channel 9,campaign 19,creative 31,android,2024-01-01,Belgium
+e4c73348L83dc14c34976bb7b9d929e2a6fe4,us,2024-01-01 06:45:53+00:00,9,100005208,False,ZAPD60861269324954,adGroupName 32,trackerName 33,channel 7,campaign 14,creative 18,android,2024-01-01,United States
+c4043348L2405df01468cb9f38af7b6f9ef4a,us,2024-01-01 13:42:05+00:00,9,galaxys8,False,LVJP57384540987196,adGroupName 57,trackerName 60,channel 10,campaign 23,creative 39,android,2024-01-01,United States
+05f53348Lab4a71704c5c9a7799ebc09dcf4a,de,2024-01-01 14:04:07+00:00,9,galaxys8plus,False,LQAM74341541682494,adGroupName 56,trackerName 59,channel 9,campaign 22,creative 38,android,2024-01-01,Germany
+899f3348Lb6ff9f70416e9ad0929c38167708,us,2024-01-01 01:14:27+00:00,9,galaxys8active,False,IVCM96549977853590,adGroupName 10,trackerName 10,channel 3,campaign 6,creative 7,android,2024-01-01,United States
+8c5b3348L84686c3247fe9a1bab09c80621f8,us,2024-01-01 09:45:09+00:00,9,galaxyj7crown,False,LAJQ87967880944474,adGroupName 9,trackerName 9,channel 3,campaign 6,creative 6,android,2024-01-01,United States
+116a3348L8225d8254093a3f919c797bc2831,us,2024-01-01 20:33:32+00:00,9,u693cl,False,QGNK27406694887597,adGroupName 8,trackerName 8,channel 3,campaign 6,creative 6,android,2024-01-01,United States
+e2d63348Lce62a8024ac89653ae4ce11d721a,es,2024-01-01 16:43:59+00:00,9,redminote8,False,GRXL72868186481877,adGroupName 7,trackerName 7,channel 2,campaign 5,creative 5,android,2024-01-01,Spain
+b6213348Lf67fa1504199ac6968267493874e,es,2024-01-01 21:57:04+00:00,9,galaxys8,False,GKCF16655804558808,adGroupName 6,trackerName 6,channel 2,campaign 5,creative 5,android,2024-01-01,Spain
+4fdc3348L2faf4e284eb9adb5be1b07a6986d,us,2024-01-01 21:33:33+00:00,9,legacy,True,MCCX57851778477919,adGroupName 5,trackerName 5,channel 2,campaign 4,creative 4,android,2024-01-01,United States
+4b253348L425fcba2462695f699e27870a6b5,us,2024-01-01 16:18:22+00:00,9,journeylte,False,RCHZ07124631299886,adGroupName 5,trackerName 5,channel 2,campaign 4,creative 4,android,2024-01-01,United States
+d8923348L4d9b4e674e469b1cb7faa12869f4,us,2024-01-01 18:04:17+00:00,9,galaxys8active,False,VQZE64662082917175,adGroupName 4,trackerName 4,channel 1,campaign 2,creative 3,android,2024-01-01,United States
+e2743348L699571fa4fd9b4f7e8b3c5720df0,de,2024-01-01 03:29:45+00:00,9,y5(2019),False,GAZL00570149805783,adGroupName 3,trackerName 3,channel 1,campaign 3,creative 2,android,2024-01-01,Germany
+06c53348Lb7f6262c4261a5b7340f301f4a92,au,2024-01-01 01:22:50+00:00,9,galaxytaba(2017),False,QLVO96314900235206,adGroupName 2,trackerName 2,channel 1,campaign 2,creative 1,android,2024-01-01,Australia
+9f3b3348Lfc6d6a144388ae0c4768b54c79ca,us,2024-01-01 01:11:23+00:00,9,galaxys8,False,MUJU91991664314739,adGroupName 12,trackerName 12,channel 4,campaign 7,creative 8,android,2024-01-01,United States
+73e93348L2c3dab404254965052161473085e,us,2024-01-01 12:01:16+00:00,10,galaxys9plus,False,CZAX74339463878136,adGroupName 11,trackerName 11,channel 3,campaign 6,creative 7,android,2024-01-01,United States
+29e43348L9e635dfb4d79b8fe4488d2decad5,us,2024-01-01 04:59:22+00:00,10,galaxynote9,False,FVWI48935781386681,adGroupName 58,trackerName 61,channel 10,campaign 23,creative 39,android,2024-01-01,United States
+8ad13348L374d272d45a38322ca88c9f87bec,us,2024-01-01 11:21:47+00:00,11,one5gace,False,TSZF57696229659748,adGroupName 32,trackerName 34,channel 7,campaign 14,creative 19,android,2024-01-01,United States
+25cd3348L7983668e46c3afe1922cc0a93041,us,2024-01-01 17:37:05+00:00,11,octopus,False,DJJV78195021110391,adGroupName 61,trackerName 65,channel 10,campaign 23,creative 39,android,2024-01-01,United States
+13d03348L81af24674064b4b411d499101009,us,2024-01-01 01:08:48+00:00,11,view2,False,GOXE19602689376661,adGroupName 59,trackerName 63,channel 10,campaign 23,creative 40,android,2024-01-01,United States
+25413348L8a0a23274d0697c6a9e3c059794e,us,2024-01-01 02:24:39+00:00,11,motogplay(2021),False,WGJG38043126510958,adGroupName 57,trackerName 60,channel 10,campaign 23,creative 39,android,2024-01-01,United States
+25243348L726222ab4b6bb9ee214e1cda0588,us,2024-01-01 22:44:36+00:00,11,motog8power,False,DEIX17756832042756,adGroupName 60,trackerName 64,channel 10,campaign 23,creative 39,android,2024-01-01,United States
+20a23348L6f3255a64d5084a87e6907ef2005,us,2024-01-01 01:28:16+00:00,11,tab-8us2,False,AOUX47203090866548,adGroupName 62,trackerName 66,channel 10,campaign 23,creative 39,android,2024-01-01,United States
+ffd13348L9f19f0e94b21bb326af44dc1c4ca,us,2024-01-01 07:54:09+00:00,11,galaxya50,False,SKBG67451305725312,adGroupName 14,trackerName 14,channel 4,campaign 7,creative 8,android,2024-01-01,United States
+0ac43348Lb2590e4a4120bb37be16490fe691,us,2024-01-01 12:43:48+00:00,11,view2,False,AFGB27882138198715,adGroupName 13,trackerName 13,channel 4,campaign 7,creative 8,android,2024-01-01,United States
+70053348Lec6ecdce489b8c563667dc01745d,us,2024-01-01 09:40:29+00:00,11,100026191,False,RTGO40837408689340,adGroupName 57,trackerName 62,channel 10,campaign 23,creative 40,android,2024-01-01,United States
+e8483348L2d025de94a65bf6eb3ee4f10b745,us,2024-01-01 15:12:12+00:00,12,30xe5g,False,JJCC98669814042845,adGroupName 57,trackerName 62,channel 10,campaign 23,creative 40,android,2024-01-01,United States
+4b333348Ld2fc847d47de8d61e84cb236e393,us,2024-01-01 12:33:36+00:00,12,motogplay2023,False,GADI72009909627061,adGroupName 16,trackerName 16,channel 4,campaign 7,creative 8,android,2024-01-01,United States
+c4d53348L5beacdf34aa69d8b170f529e9bf3,us,2024-01-01 18:45:31+00:00,12,m8l2022,False,NIES97519456130857,adGroupName 15,trackerName 15,channel 4,campaign 7,creative 9,android,2024-01-01,United States
+81023348L1d36fd3e4515a59ce3829a0f475a,us,2024-01-01 20:11:06+00:00,13,galaxya135g,False,KDCK27889446876333,adGroupName 34,trackerName 36,channel 8,campaign 15,creative 21,android,2024-01-01,United States
+92503348L0e84d1724c99809fa15d254968d7,us,2024-01-01 22:19:45+00:00,13,galaxynote20ultra5g,False,BVNO84503180650921,adGroupName 33,trackerName 35,channel 7,campaign 14,creative 20,android,2024-01-01,United States
+c7e93348L6d40ccf4454592eb936cf807b644,us,2024-01-01 15:19:09+00:00,13,motog5g(2022),False,DPZG44185406614965,adGroupName 17,trackerName 17,channel 4,campaign 7,creative 8,android,2024-01-01,United States
+9ca03348Lcd02534e493d8f2af2abb69bcdaf,us,2024-01-01 14:34:55+00:00,13,galaxya535g,False,LNPT71166986878750,adGroupName 32,trackerName 34,channel 7,campaign 14,creative 19,android,2024-01-01,United States
+e2033348Lb60e9dd54d3a84223e5e460f1546,us,2024-01-01 17:18:20+00:00,14.3,iphonexr,False,SGJL01798779866261,adGroupName 37,trackerName 39,channel 4,campaign 17,creative 24,ios,2024-01-01,United States
+f07c3348La0e2f03549a3bb0dc20a5089b9d7,us,2024-01-01 18:16:06+00:00,14.4,iphone6s,False,NPQH80532080462784,adGroupName 18,trackerName 18,channel 1,campaign 8,creative 10,ios,2024-01-01,United States
+b2bc3348L34e0c8f3418c8f15714e061cc694,us,2024-01-01 12:12:47+00:00,14.4,iphone7,False,KSBU54768596469279,adGroupName 18,trackerName 19,channel 1,campaign 9,creative 10,ios,2024-01-01,United States
+c2e33348L5b93c3514c96a1a0b67589c0a8bc,us,2024-01-01 17:03:35+00:00,14.7,iphone6s,False,TOGG80045912099594,adGroupName 18,trackerName 18,channel 1,campaign 8,creative 10,ios,2024-01-01,United States
+78dc3348Ld387ad974a12a53670830f229e0b,us,2024-01-01 08:16:39+00:00,15.1,iphonexr,True,JNXJ94935737491930,adGroupName 28,trackerName 29,channel 7,campaign 12,creative 14,ios,2024-01-01,United States
+31593348Le3c97afc4eb19dd18746de1075c7,us,2024-01-01 05:54:35+00:00,15.2,ipad,True,VJYG25848456447922,adGroupName 23,trackerName 24,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+de253348L02906b5a480c90733396a5a08bd5,us,2024-01-01 22:57:01+00:00,15.4.1,iphone11,True,NCKI95021834073096,adGroupName 45,trackerName 47,channel 9,campaign 18,creative 26,ios,2024-01-01,United States
+a1023348L4a04793d45458c1267a54044397f,us,2024-01-01 21:32:39+00:00,15.5,ipad(9thgen),True,PXAU08491656801432,adGroupName 38,trackerName 40,channel 9,campaign 18,creative 25,ios,2024-01-01,United States
+a5563348L876a9a5743ebaaea2719b08936f5,us,2024-01-01 15:55:46+00:00,15.8,iphone7plus,True,DHHE87348012383647,adGroupName 36,trackerName 38,channel 4,campaign 17,creative 23,ios,2024-01-01,United States
+c8f73348L8518305444388d322386385d64c8,us,2024-01-01 23:22:34+00:00,15.8,iphone6s,True,GLYP06383020627728,adGroupName 39,trackerName 41,channel 9,campaign 18,creative 26,ios,2024-01-01,United States
+1e2a3348L0fe816d840dab702032afb6de2d9,us,2024-01-01 14:07:09+00:00,15.8,iphone7plus,True,EPKF38914898794275,adGroupName 63,trackerName 67,channel 10,campaign 23,creative 39,ios,2024-01-01,United States
+9d4d3348L68846a72411c83a252649517ee80,us,2024-01-01 22:40:22+00:00,15.8,iphone6splus,True,TCDS47394381550754,adGroupName 29,trackerName 30,channel 7,campaign 13,creative 15,ios,2024-01-01,United States
+7b783348Lc4ffdec3414c98e9299c4227bc8d,us,2024-01-01 07:26:38+00:00,16,iphone13promax,True,VFJF33087127097152,adGroupName 19,trackerName 20,channel 5,campaign 10,creative 11,ios,2024-01-01,United States
+b5fc3348L15de448b45ab9f4e2bd5375ace74,us,2024-01-01 21:56:59+00:00,16,iphone12,True,BPHN71523003729370,adGroupName 24,trackerName 25,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+821d3348L47ed38ce4d2baf4bcb5860737bd0,us,2024-01-01 02:23:29+00:00,16,iphonexr,True,MCHC92137559103516,adGroupName 25,trackerName 26,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+93363348L140bed514be08245629f95733e9c,us,2024-01-01 22:57:12+00:00,16.0.2,iphone11,True,JPYZ13370455456817,adGroupName 20,trackerName 21,channel 5,campaign 10,creative 12,ios,2024-01-01,United States
+28893348Ldd59e8b04095a950da7261c76558,us,2024-01-01 19:44:02+00:00,16.1.1,iphone13,True,IWVA46131388067157,adGroupName 46,trackerName 48,channel 9,campaign 18,creative 27,ios,2024-01-01,United States
+d1f23348Lb4d35331402e8a5e050c0a81b715,us,2024-01-01 04:00:49+00:00,16.1.2,iphone13,True,QOJL50219026112760,adGroupName 47,trackerName 49,channel 9,campaign 18,creative 29,ios,2024-01-01,United States
+78363348L44b8fa184123b61a57383e77d90b,us,2024-01-01 18:01:48+00:00,16.3,iphone12,False,ZRMY11524621773580,adGroupName 64,trackerName 68,channel 10,campaign 23,creative 39,ios,2024-01-01,United States
+742d3348L2303cbc147a9b7d5d5e2d2c8bb5e,us,2024-01-01 17:04:45+00:00,16.3.1,ipad(10thgen),True,BFMJ72784068177185,adGroupName 75,trackerName 79,channel 3,campaign 26,creative 6,ios,2024-01-01,United States
+4bef3348L5ba54c324032a0afb7aae4af82f5,us,2024-01-01 07:46:52+00:00,16.3.1,iphone13,True,OZGB49454984677191,adGroupName 70,trackerName 74,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+2c013348Lfb9e1e924c0dabbc8e5a020517cc,us,2024-01-01 19:30:11+00:00,16.6,ipad(9thgen),True,YGAL20682601452885,adGroupName 66,trackerName 70,channel 10,campaign 23,creative 39,ios,2024-01-01,United States
+c7003348Ld6361ef440828eb5bc7a02095da3,us,2024-01-01 05:48:35+00:00,16.6,iphonexr,True,FQTH73741289474596,adGroupName 65,trackerName 69,channel 10,campaign 23,creative 39,ios,2024-01-01,United States
+80ca3348Lfd5a3967456595b7a2a7e0a6a00b,us,2024-01-01 14:04:41+00:00,16.6,ipad(9thgen),True,CNVW17048970875657,adGroupName 74,trackerName 78,channel 3,campaign 26,creative 6,ios,2024-01-01,United States
+69aa3348L41fcbae6424f8f448d7e7612254b,us,2024-01-01 17:06:15+00:00,16.6,iphone11,True,TVXD31771999351402,adGroupName 25,trackerName 26,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+4f893348Ld00660434c769e2b9ccc4ecb21df,us,2024-01-01 11:20:54+00:00,16.6,iphonexs,True,GCFY14521415903166,adGroupName 40,trackerName 42,channel 9,campaign 18,creative 26,ios,2024-01-01,United States
+bf8c3348L7adbc83f4043ad28a800aa5e8dbb,us,2024-01-01 17:17:23+00:00,16.6,iphonese(2ndgeneration),True,GMNI86068832982542,adGroupName 30,trackerName 31,channel 7,campaign 13,creative 16,ios,2024-01-01,United States
+dd5e3348Lca05b66647fcb4e80836197d8b8c,us,2024-01-01 17:21:23+00:00,16.6,iphonexs,True,AXDT42740737805822,adGroupName 68,trackerName 72,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+f4533348L6deb7d4c4da58daee9b4c8a270eb,us,2024-01-01 19:55:31+00:00,16.6,iphone13,True,UHIY40550534024780,adGroupName 41,trackerName 43,channel 9,campaign 18,creative 27,ios,2024-01-01,United States
+32713348L5f9a484f4f32bcdc7e3bbd7bd62d,us,2024-01-01 20:17:55+00:00,16.6.1,iphone13pro,True,UCZL65680032305500,adGroupName 71,trackerName 75,channel 6,campaign 25,creative 41,ios,2024-01-01,United States
+87ea3348L9dcc20334e2b8309bd2ab651c664,us,2024-01-01 19:24:55+00:00,16.7.2,ipadpro(9.7),True,EKZS78116421449202,adGroupName 72,trackerName 76,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+41f83348L8451459c4dea9f20ae7de35d1d3c,us,2024-01-01 00:17:25+00:00,16.7.2,iphone8,True,FYIK64388967970447,adGroupName 76,trackerName 80,channel 3,campaign 26,creative 6,ios,2024-01-01,United States
+08603348Lf1ccd58d471db788afc8b4b26af0,us,2024-01-01 00:41:44+00:00,17.0.2,iphonexr,True,SHJN20694460348993,adGroupName 73,trackerName 77,channel 6,campaign 24,creative 42,ios,2024-01-01,United States
+812d3348Lad2093644ef09f377cadef2b7426,us,2024-01-01 01:50:33+00:00,17.0.3,iphone15,True,UXXD96842211606760,adGroupName 27,trackerName 28,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+12113348Lcf1116d84663bf77d3c61f856c04,us,2024-01-01 23:28:13+00:00,17.0.3,iphone12mini,False,WUOE82945139732406,adGroupName 62,trackerName 66,channel 10,campaign 23,creative 39,ios,2024-01-01,United States
+42b43348Lecb383fc4277b670649fdb17bce1,us,2024-01-01 16:37:45+00:00,17.0.3,iphone12,True,XLYC27464268363065,adGroupName 25,trackerName 26,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+53523348L828abf9744cb8b4249ff31eea33c,us,2024-01-01 08:52:09+00:00,17.1,iphone15plus,True,NFDR01972641061440,adGroupName 42,trackerName 44,channel 9,campaign 18,creative 28,ios,2024-01-01,United States
+84d63348Le24796af401dbc387832dd9678de,us,2024-01-01 08:33:35+00:00,17.1.1,iphone15promax,False,QRKO19074758967073,adGroupName 35,trackerName 37,channel 4,campaign 16,creative 22,ios,2024-01-01,United States
+a5e23348L2fdde43748d1a4dfd1f6c62fcc57,us,2024-01-01 02:53:04+00:00,17.1.1,iphone11,True,NJYS04600953054159,adGroupName 28,trackerName 29,channel 7,campaign 12,creative 14,ios,2024-01-01,United States
+d2893348Le17a7e674f7cbe9ebbc6493aa115,us,2024-01-01 23:44:09+00:00,17.1.1,iphonese(3rdgeneration),True,SSDA52295268910889,adGroupName 21,trackerName 22,channel 5,campaign 10,creative 12,ios,2024-01-01,United States
+97fd3348Lf4a368b440698a7810287f425eff,us,2024-01-01 03:03:24+00:00,17.1.1,iphone12pro,True,SXUM86728597111694,adGroupName 77,trackerName 81,channel 3,campaign 26,creative 6,ios,2024-01-01,United States
+db033348Lbc996cac42d2b7fc270fd49e42c0,us,2024-01-01 17:04:54+00:00,17.1.2,iphone12mini,True,RPTT11856856256407,adGroupName 79,trackerName 83,channel 3,campaign 26,creative 6,ios,2024-01-01,United States
+62fa3348L028b5744456b813e2b687e70b3c0,us,2024-01-01 03:19:45+00:00,17.1.2,iphonese(3rdgeneration),True,NBGI53408663890799,adGroupName 22,trackerName 23,channel 5,campaign 10,creative 12,ios,2024-01-01,United States
+4c993348L952c25104ce9b8011d6eef335364,us,2024-01-01 08:02:29+00:00,17.1.2,iphone12,True,YXGX82997455059970,adGroupName 78,trackerName 82,channel 3,campaign 26,creative 6,ios,2024-01-01,United States
+f5773348L7cd788794c25a4797f96e8acd38e,us,2024-01-01 17:06:05+00:00,17.1.2,iphone15,True,WKMA40630588865950,adGroupName 80,trackerName 84,channel 3,campaign 26,creative 6,ios,2024-01-01,United States
+8c6d3348L712fea8344339d7558f9ee3bff9a,us,2024-01-01 11:00:51+00:00,17.2,iphone14promax,True,KIDC87584521026972,adGroupName 57,trackerName 60,channel 10,campaign 23,creative 39,ios,2024-01-01,United States
+c6ce3348L70d8d85f475abcabbcfeb449d340,us,2024-01-01 02:14:39+00:00,17.2,ipad,True,FHNF44275145085090,adGroupName 44,trackerName 46,channel 9,campaign 18,creative 27,ios,2024-01-01,United States
+affd3348L5492477a48ecad7101d29d21ee0c,us,2024-01-01 21:01:26+00:00,17.2,iphone13,True,ODSU30934265667900,adGroupName 43,trackerName 45,channel 9,campaign 18,creative 26,ios,2024-01-01,United States
+93ca3348Lb927193f419a974c1e0b551294f3,us,2024-01-01 19:34:39+00:00,17.3,iphone13,True,XVND98780605311589,adGroupName 67,trackerName 71,channel 10,campaign 23,creative 39,ios,2024-01-01,United States
+43623348La15dd74d4a689e17e0ef205feaaa,us,2024-01-01 13:30:38+00:00,17.3,iphone11pro,True,CORN41703339382907,adGroupName 69,trackerName 73,channel 6,campaign 24,creative 13,ios,2024-01-01,United States
+6dfc3348Lfb7c62ba4787ba33b4f974f06d11,us,2024-01-01 13:04:42+00:00,17.3,iphone11,True,HCUY86380913361191,adGroupName 31,trackerName 32,channel 7,campaign 12,creative 17,ios,2024-01-01,United States
+b5da3348L3c468eac472fa64d0df5b8aa51ed,us,2024-01-01 17:23:58+00:00,17.3,ipadpro,True,ENEI15490798525121,adGroupName 26,trackerName 27,channel 6,campaign 11,creative 13,ios,2024-01-01,United States
+fa9c3348Le4b1895b4c60bcd226be581387e2,us,2024-01-01 02:40:06+00:00,17.3,iphone14promax,True,KRHX88778575476792,adGroupName 57,trackerName 62,channel 10,campaign 23,creative 40,ios,2024-01-01,United States
